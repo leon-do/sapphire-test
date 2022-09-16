@@ -4,6 +4,8 @@ https://docs.oasis.io/dapp/sapphire/quickstart/
 
 ## Setup
 
+npm i -g truffle
+
 npm i
 
 vi .env
